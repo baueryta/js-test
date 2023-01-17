@@ -1,0 +1,13 @@
+{
+    "name": "js_quiz",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "private": true,
+    "dependencies": {
+        "express": "4.18.2",
+        "ejs": "3.1.8",
+        "sequelize": "^6.25.1",
+        "sqlite3": "5.1.2"
+    }
+}
